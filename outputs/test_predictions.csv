@@ -1,0 +1,91 @@
+request_id,neighbourhood,category_label,predicted_category,max_softmax_score,correct
+REQ-10304,South Park,broken_streetlight,broken_streetlight,0.676663,True
+REQ-10412,Eastview,broken_streetlight,broken_streetlight,0.8440933,True
+REQ-10206,Hillside,water_leak,water_leak,0.81013745,True
+REQ-10009,South Park,pothole,water_leak,0.39258373,False
+REQ-10138,South Park,pothole,water_leak,0.37755555,False
+REQ-10369,Hillside,broken_streetlight,broken_streetlight,0.7049415,True
+REQ-10173,Riverside,water_leak,water_leak,0.73944014,True
+REQ-10227,Eastview,water_leak,water_leak,0.94733775,True
+REQ-10308,North End,broken_streetlight,broken_streetlight,0.58569914,True
+REQ-10184,Hillside,water_leak,water_leak,0.77215177,True
+REQ-10327,North End,broken_streetlight,broken_streetlight,0.4607722,True
+REQ-10444,South Park,broken_streetlight,broken_streetlight,0.5631631,True
+REQ-10540,Hillside,illegal_dumping,illegal_dumping,0.717856,True
+REQ-10462,North End,illegal_dumping,illegal_dumping,0.99967194,True
+REQ-10140,Riverside,pothole,water_leak,0.51812756,False
+REQ-10219,Riverside,water_leak,pothole,0.47081006,False
+REQ-10526,Eastview,illegal_dumping,illegal_dumping,0.71267605,True
+REQ-10339,Eastview,broken_streetlight,broken_streetlight,0.652565,True
+REQ-10355,Eastview,broken_streetlight,broken_streetlight,0.51557165,True
+REQ-10577,Central,illegal_dumping,illegal_dumping,0.99867535,True
+REQ-10240,Central,water_leak,water_leak,0.99365216,True
+REQ-10447,Hillside,broken_streetlight,broken_streetlight,0.81691754,True
+REQ-10417,South Park,broken_streetlight,broken_streetlight,0.6910437,True
+REQ-10567,Riverside,illegal_dumping,illegal_dumping,0.99094605,True
+REQ-10580,Central,illegal_dumping,illegal_dumping,0.99745333,True
+REQ-10229,North End,water_leak,water_leak,0.972092,True
+REQ-10165,Eastview,water_leak,water_leak,0.49626458,True
+REQ-10596,South Park,illegal_dumping,illegal_dumping,0.8502907,True
+REQ-10547,North End,illegal_dumping,illegal_dumping,0.9818549,True
+REQ-10418,Eastview,broken_streetlight,water_leak,0.5302404,False
+REQ-10207,Riverside,water_leak,water_leak,0.9015175,True
+REQ-10290,Riverside,water_leak,water_leak,0.65846974,True
+REQ-10571,Riverside,illegal_dumping,illegal_dumping,0.9971089,True
+REQ-10231,Eastview,water_leak,broken_streetlight,0.56540316,False
+REQ-10091,Hillside,pothole,pothole,0.39495575,True
+REQ-10482,South Park,illegal_dumping,pothole,0.6858196,False
+REQ-10394,Central,broken_streetlight,pothole,0.4964712,False
+REQ-10148,South Park,pothole,pothole,0.60204196,True
+REQ-10350,Hillside,broken_streetlight,broken_streetlight,0.7774316,True
+REQ-10137,Eastview,pothole,broken_streetlight,0.5635522,False
+REQ-10088,Riverside,pothole,broken_streetlight,0.6298564,False
+REQ-10378,Eastview,broken_streetlight,broken_streetlight,0.7635105,True
+REQ-10435,Central,broken_streetlight,broken_streetlight,0.8734213,True
+REQ-10112,Eastview,pothole,water_leak,0.6691715,False
+REQ-10099,North End,pothole,broken_streetlight,0.8205971,False
+REQ-10292,Hillside,water_leak,water_leak,0.9412954,True
+REQ-10233,Riverside,water_leak,water_leak,0.70754313,True
+REQ-10330,Central,broken_streetlight,pothole,0.47853208,False
+REQ-10127,Central,pothole,pothole,0.48832864,True
+REQ-10560,Eastview,illegal_dumping,illegal_dumping,0.985615,True
+REQ-10528,Riverside,illegal_dumping,pothole,0.6189071,False
+REQ-10496,North End,illegal_dumping,illegal_dumping,0.99404955,True
+REQ-10023,Central,pothole,water_leak,0.7991464,False
+REQ-10384,North End,broken_streetlight,broken_streetlight,0.5273094,True
+REQ-10252,Riverside,water_leak,water_leak,0.70979106,True
+REQ-10214,North End,water_leak,water_leak,0.94340384,True
+REQ-10146,South Park,pothole,pothole,0.5534444,True
+REQ-10187,Central,water_leak,water_leak,0.9804264,True
+REQ-10267,Hillside,water_leak,water_leak,0.6559407,True
+REQ-10257,North End,water_leak,water_leak,0.81561637,True
+REQ-10032,Hillside,pothole,pothole,0.7101153,True
+REQ-10570,South Park,illegal_dumping,illegal_dumping,0.99768037,True
+REQ-10533,Eastview,illegal_dumping,pothole,0.5256721,False
+REQ-10329,Eastview,broken_streetlight,broken_streetlight,0.6619013,True
+REQ-10153,North End,water_leak,water_leak,0.5941431,True
+REQ-10205,Central,water_leak,water_leak,0.87862474,True
+REQ-10478,Central,illegal_dumping,illegal_dumping,0.99135727,True
+REQ-10121,Hillside,pothole,pothole,0.41192174,True
+REQ-10497,South Park,illegal_dumping,illegal_dumping,0.9186365,True
+REQ-10129,North End,pothole,broken_streetlight,0.6477263,False
+REQ-10589,Eastview,illegal_dumping,illegal_dumping,0.63945866,True
+REQ-10089,North End,pothole,pothole,0.40109828,True
+REQ-10499,South Park,illegal_dumping,illegal_dumping,0.99546945,True
+REQ-10328,North End,broken_streetlight,broken_streetlight,0.5416995,True
+REQ-10223,Central,water_leak,water_leak,0.583689,True
+REQ-10521,Eastview,illegal_dumping,illegal_dumping,0.81359446,True
+REQ-10108,South Park,pothole,water_leak,0.758175,False
+REQ-10270,Hillside,water_leak,water_leak,0.943211,True
+REQ-10396,Eastview,broken_streetlight,broken_streetlight,0.8225972,True
+REQ-10105,Riverside,pothole,broken_streetlight,0.4527172,False
+REQ-10502,Hillside,illegal_dumping,illegal_dumping,0.99705243,True
+REQ-10349,North End,broken_streetlight,pothole,0.44470614,False
+REQ-10068,North End,pothole,pothole,0.44457358,True
+REQ-10470,North End,illegal_dumping,illegal_dumping,0.9854674,True
+REQ-10094,Hillside,pothole,illegal_dumping,0.57752323,False
+REQ-10341,Hillside,broken_streetlight,broken_streetlight,0.75848335,True
+REQ-10538,South Park,illegal_dumping,illegal_dumping,0.9963526,True
+REQ-10118,Central,pothole,pothole,0.55911607,True
+REQ-10045,South Park,pothole,water_leak,0.3776058,False
+REQ-10001,North End,pothole,pothole,0.52109146,True

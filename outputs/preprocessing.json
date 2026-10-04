@@ -1,0 +1,61 @@
+{
+  "numeric_fields": [
+    "created_hour",
+    "repeat_report_count",
+    "image_quality_score",
+    "nearby_asset_age_years",
+    "description_word_count",
+    "previous_resolution_days"
+  ],
+  "categorical_fields": [
+    "channel",
+    "urgency_level",
+    "recent_rain_flag"
+  ],
+  "medians": {
+    "created_hour": 14.0,
+    "repeat_report_count": 3.0,
+    "image_quality_score": 0.703,
+    "nearby_asset_age_years": 21.55,
+    "description_word_count": 15.0,
+    "previous_resolution_days": 7.8
+  },
+  "modes": {
+    "channel": "mobile_app",
+    "urgency_level": "medium",
+    "recent_rain_flag": "no"
+  },
+  "means": [
+    13.821428298950195,
+    3.2285714149475098,
+    0.6890643239021301,
+    21.83834457397461,
+    15.842857360839844,
+    8.580954551696777
+  ],
+  "scales": [
+    6.023290157318115,
+    2.0987846851348877,
+    0.15736040472984314,
+    10.481492042541504,
+    5.959712028503418,
+    4.362095355987549
+  ],
+  "encoded_columns": [
+    "channel_call_centre",
+    "channel_mobile_app",
+    "channel_service_office",
+    "channel_web_portal",
+    "urgency_level_high",
+    "urgency_level_low",
+    "urgency_level_medium",
+    "recent_rain_flag_no",
+    "recent_rain_flag_yes"
+  ],
+  "class_to_id": {
+    "broken_streetlight": 0,
+    "illegal_dumping": 1,
+    "pothole": 2,
+    "water_leak": 3
+  }
+}

@@ -1,0 +1,9 @@
+# Tested with Python 3.12 and TensorFlow 2.20 on a Linux CPU.
+tensorflow-cpu==2.20.0
+keras==3.15.1
+numpy==2.3.5
+pandas==2.2.3
+scikit-learn==1.8.0
+matplotlib==3.10.8
+# Needed only to open the notebook locally; the Python runner does not use Jupyter.
+jupyterlab>=4.4,<5

@@ -1,0 +1,5 @@
+,broken_streetlight,illegal_dumping,pothole,water_leak
+broken_streetlight,18,0,3,1
+illegal_dumping,0,20,3,0
+pothole,5,1,10,7
+water_leak,1,0,1,20
