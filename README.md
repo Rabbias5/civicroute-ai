@@ -4,7 +4,7 @@ CivicRoute AI is a small TensorFlow/Keras classifier that recommends a category
 for a council service request: broken streetlight, illegal dumping, pothole or
 water leak. It uses the supplied synthetic educational dataset. A council
 employee remains responsible for reviewing the recommendation and routing the case.
-
+Repository reviewed for assessment demonstration.
 ## Results
 
 The model correctly classified **68 of 90 test requests**, giving **75.56% accuracy**
